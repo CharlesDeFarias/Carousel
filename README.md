@@ -1,7 +1,7 @@
 # Charles' Carousel of Crappy memes
 I created a quick and easy carousel that scrolls through a series of images, with the last image leading to the first image and vice versa.
 
-**Link to project:** http://recruiters-love-seeing-live-demos.com/
+**Link to project:**  https://charlesdefarias.github.io/Carousel/
 
 ![Carousel Screenshot](carousel.png)
 
